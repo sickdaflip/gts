@@ -19,7 +19,7 @@
 <config>
     <modules>
         <Develo_Googletrustedstores>
-            <active>true</active>
+            <active>false</active>
             <codePool>community</codePool>
             <depends>
                 <Mage_Core />

@@ -2,7 +2,7 @@
   "name": "sickdaflip/magento-google-trusted-stores",
   "type": "magento-module",
   "license": "MIT",
-  "description": "Magento Google Trusted Stores 1.9.3.1",
+  "description": "Google Trusted Stores for Magento 1.9.3.",
   "authors": [
     {
       "name": "SickDaFlip",
