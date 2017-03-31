@@ -1,8 +1,8 @@
 {
-  "name": "sickdaflip/magento-google-trusted-stores",
+  "name": "sickdaflip/mage_google_kundenrezensionen",
   "type": "magento-module",
   "license": "MIT",
-  "description": "Google Trusted Stores for Magento 1.9.3.",
+  "description": "Google Kundenrezensionen for Magento 1.9.3.",
   "authors": [
     {
       "name": "SickDaFlip",
