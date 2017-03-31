@@ -8,7 +8,7 @@
             window.gapi.ratingbadge.render(
                 ratingBadgeContainer, {
                     // REQUIRED
-                    "merchant_id": <?php echo $this->escapeHtml( $this->getStoreId() ) ?>,
+                    "merchant_id": <?php echo $this->escapeHtml( $this->getGoogleBaseSubaccountId() ) ?>,
                     // OPTIONAL
                     "position": "<?php echo $this->escapeHtml( $this->getBadgePosition() ) ?>"
                 });
